@@ -1,0 +1,13 @@
+D:\Temp\MongDB.UnitTests\bin\Debug\MongDB.UnitTests.dll
+D:\Temp\MongDB.UnitTests\bin\Debug\MongDB.UnitTests.pdb
+D:\Temp\MongDB.UnitTests\bin\Debug\DomainObjects.dll
+D:\Temp\MongDB.UnitTests\bin\Debug\MongoDB.Bson.dll
+D:\Temp\MongDB.UnitTests\bin\Debug\MongoDB.Driver.dll
+D:\Temp\MongDB.UnitTests\bin\Debug\DomainObjects.pdb
+D:\Temp\MongDB.UnitTests\bin\Debug\MongoDB.Bson.pdb
+D:\Temp\MongDB.UnitTests\bin\Debug\MongoDB.Bson.xml
+D:\Temp\MongDB.UnitTests\bin\Debug\MongoDB.Driver.pdb
+D:\Temp\MongDB.UnitTests\bin\Debug\MongoDB.Driver.xml
+D:\Temp\MongDB.UnitTests\obj\Debug\ResolveAssemblyReference.cache
+D:\Temp\MongDB.UnitTests\obj\Debug\MongDB.UnitTests.dll
+D:\Temp\MongDB.UnitTests\obj\Debug\MongDB.UnitTests.pdb

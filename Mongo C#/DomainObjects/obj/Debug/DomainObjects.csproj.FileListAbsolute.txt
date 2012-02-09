@@ -1,0 +1,11 @@
+D:\Temp\DomainObjects\bin\Debug\DomainObjects.dll
+D:\Temp\DomainObjects\bin\Debug\DomainObjects.pdb
+D:\Temp\DomainObjects\bin\Debug\MongoDB.Bson.dll
+D:\Temp\DomainObjects\bin\Debug\MongoDB.Driver.dll
+D:\Temp\DomainObjects\bin\Debug\MongoDB.Bson.pdb
+D:\Temp\DomainObjects\bin\Debug\MongoDB.Bson.xml
+D:\Temp\DomainObjects\bin\Debug\MongoDB.Driver.pdb
+D:\Temp\DomainObjects\bin\Debug\MongoDB.Driver.xml
+D:\Temp\DomainObjects\obj\Debug\ResolveAssemblyReference.cache
+D:\Temp\DomainObjects\obj\Debug\DomainObjects.dll
+D:\Temp\DomainObjects\obj\Debug\DomainObjects.pdb
