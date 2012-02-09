@@ -1,5 +1,0 @@
-config = {_id: 'Santa', members: [
-rs.initiate(config);
-rs.status()
-db.messages.insert({name: "ReplSet Tutorial"});
-quit
